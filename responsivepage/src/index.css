@@ -1,0 +1,34 @@
+.classs{
+    color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 70vh;
+        font-size: large;
+        text-align: center;
+        flex-direction: column;
+       
+}
+.classtwo{
+    
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 70vh;
+        font-size: large;
+        text-align: center;
+        flex-direction: column;
+   
+      
+  }
+  .classthree{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    font-size: large;
+    text-align: center;
+    flex-direction: column;
+  }
